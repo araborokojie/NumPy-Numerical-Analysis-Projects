@@ -9,7 +9,7 @@ The projects cover business analytics, education analytics, engineering/scientif
 
 ## Projects Included
 
-**1. Business Analytics — Sales Performance Calculator**
+### 1. Business Analytics — Sales Performance Calculator
 
 This exercise analyzes one week of daily sales data for a retail business.
 
@@ -27,7 +27,7 @@ This exercise analyzes one week of daily sales data for a retail business.
 The business recorded ₦1,150,000 in weekly sales, with an average daily sales figure of approximately ₦164,285.71.
 
 
-**2. Education Analytics — Student Performance Analysis**
+### 2. Education Analytics — Student Performance Analysis
 
 This exercise examines the performance of a group of students using their assessment scores.
 
@@ -45,8 +45,10 @@ This exercise examines the performance of a group of students using their assess
 
 The students had a mean score of 79.5. The deviations helped demonstrate how individual scores can differ from the group average and why looking beyond the mean provides more information about student performance.
 
+![Screenshot](pi1.PNG)
 
-**3. Engineering & Scientific Computing — Trigonometric Series**
+
+### 3. Engineering & Scientific Computing — Trigonometric Series
 
 This exercise explores numerical sequences and trigonometric calculations using NumPy.
 
@@ -63,8 +65,10 @@ This exercise explores numerical sequences and trigonometric calculations using 
 
 The experiment also provided an opportunity to distinguish between a series that approaches a limiting value and one whose result continues to increase as more terms are added.
 
+![Screenshot](pi2.PNG)
 
-**4. Bonus Project — Food Production Performance Analysis**
+
+### 4. Bonus Project — Food Production Performance Analysis
 
 For the bonus challenge, I created a mini numerical experiment based on a simulated food production scenario.
 
@@ -83,6 +87,11 @@ The project analyzes the number of food packages produced over seven days and es
 **Key result:**
 
 The simulated production dataset recorded 9,250 packages for the week, with an average daily production of approximately 1,321 packages. A hypothetical 10% increase would raise weekly production to 10,175 packages, representing an additional 925 packages.
+
+![Screenshot](pi3.PNG)
+![Screenshot](pi4.PNG)
+![Screenshot](pi5.PNG)
+![Screenshot](pi6.PNG)
 
 
 ## NumPy Concepts Practiced
@@ -110,23 +119,6 @@ These exercises helped me understand that NumPy is more than just a way to store
 I also learned how basic mathematical operations can be connected to practical problems such as monitoring sales, understanding student performance, analyzing numerical series, and evaluating production output.
 
 Most importantly, the exercises strengthened my understanding of how data analysis combines programming, mathematics, and interpretation to support real-world decision-making.
-
-
-## Repository Structure
-
-NumPy-Numerical-Analysis/
-
-│
-
-├── Business_Sales_Performance.ipynb
-
-├── Student_Performance_Analysis.ipynb
-
-├── Trigonometric_Series_Analysis.ipynb
-
-├── Food_Production_Performance.ipynb
-
-└── README.md
 
 
 ## Conclusion
