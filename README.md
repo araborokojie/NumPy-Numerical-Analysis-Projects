@@ -115,11 +115,17 @@ Most importantly, the exercises strengthened my understanding of how data analys
 ## Repository Structure
 
 NumPy-Numerical-Analysis/
+
 │
+
 ├── Business_Sales_Performance.ipynb
+
 ├── Student_Performance_Analysis.ipynb
+
 ├── Trigonometric_Series_Analysis.ipynb
+
 ├── Food_Production_Performance.ipynb
+
 └── README.md
 
 
@@ -131,7 +137,9 @@ This collection represents my practical work with NumPy and my progress in apply
 ## Tools Used
 
 **Python**
+
 **NumPy**
+
 **Jupyter Notebook**
 
 **LinkedIn-** https://www.linkedin.com/in/arabor-okojie-9b4144376
